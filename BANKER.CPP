@@ -942,7 +942,7 @@ void intro()
 	cout << "\n\n\n\t  BANK";
 	cout << "\n\n\tMANAGEMENT";
 	cout << "\n\n\t  SYSTEM";
-	cout << "\n\n\n\nMADE BY :\n Astitva Agarwal & Saniya Saggar ";
+	cout << "\n\n\n\nMADE BY :\n Astitva Agarwal  ";
 	getch();
 }
 
