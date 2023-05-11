@@ -1,2 +1,2 @@
 # DEC-Project
-Made by Astitva &amp; Saniya
+Made by Astitva
